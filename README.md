@@ -8,3 +8,4 @@ This repository contains higher-level programming projects and tasks completed a
 | --------- | ----------- |
 | [python-serialization](./python-serialization) | Data serialization and deserialization using JSON, Pickle, CSV, and XML in Python |
 | [python-object_relational_mapping](./python-object_relational_mapping) | Object-relational mapping in Python using MySQLdb and SQLAlchemy |
+| [restful-api](./restful-api) | RESTful API development and consumption with Python, http.server, Flask, and JWT authentication |
